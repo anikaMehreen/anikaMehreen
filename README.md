@@ -2,7 +2,7 @@
 
 
 
-<img src="https://i.pinimg.com/originals/4d/58/ee/4d58ee3a092e554d6fd6dd29628565ba.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/4d/58/ee/4d58ee3a092e554d6fd6dd29628565ba.gif" alt="Banner" width="30%" height ="30%" />
 
 ## 📌 About Me
 - 👩🏻‍🎓 I'm a UG student in CSE at North South University
