@@ -16,14 +16,14 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meawreen&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="meawreen's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=meawreen&theme=radical&hide_border=true&cache_seconds=86400" alt="meawreen's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anikaMehreen&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="anikaMehreen's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=anikaMehreen&theme=radical&hide_border=true&cache_seconds=86400" alt="anikaMehreen's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meawreen&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anika Mehreen's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anikaMehreen&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anika Mehreen's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=meawreen&theme=radical&radius=10" alt="meawreen's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=anikaMehreen&theme=radical&radius=10" alt="anikaMehreen's Activity Graph" />
 </p>
 
 
@@ -42,7 +42,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meawreen&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikaMehreen&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
